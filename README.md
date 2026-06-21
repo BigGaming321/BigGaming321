@@ -9,4 +9,11 @@
 
 - Fun fact: I'm not your typical Komsai student, I touch grass (sometimes)
 
+---
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BigGaming321&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BigGaming321&layout=compact)
+
+---
